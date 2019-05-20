@@ -1,25 +1,24 @@
 UPDATE Salespersons 
 SET 
-    store = Miami
+    store = 'Miami'
 WHERE
-    idSalespersons = 00005;
+    salesperson_id = 00005;
 
 
 UPDATE Customers 
 SET 
     email = 'ppicasso@gmail.com'
 WHERE
-    name = 'Pablo Picasso';
+    customer_id = 1;
+    
 UPDATE Customers 
 SET 
     email = 'lincoln@us.gov'
 WHERE
-    name = 'Abraham Lincoln';
+    customer_id = 2;
+    
 UPDATE Customers 
 SET 
     email = 'hello@napoleon.me'
 WHERE
-    name = 'Napoléon Bonaparte';
-	
- 	
-	
+    customer_id = 3;

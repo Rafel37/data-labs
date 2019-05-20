@@ -1,4 +1,4 @@
 DELETE FROM Cars 
 WHERE
-    id = 4; 
+    car_id = 4; 
  
