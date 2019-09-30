@@ -6,7 +6,7 @@ para comparar los resultados que se han puesto a sus propias pelis
 
 ## RECURSOS
 
-Para este proyecto usaré la [API del estudio Ghibli:] (https://ghibliapi.herokuapp.com/films)
+Para este proyecto usaré la [API del estudio Ghibli](https://ghibliapi.herokuapp.com/films)
 
 Usaré tambien una lista creada de las [peliculas del estudio Ghibli](https://www.imdb.com/list/ls076439519/)
 de la cual mediante scraping obtendremos las puntuaciones de las peliculas
