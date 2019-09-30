@@ -1,7 +1,7 @@
 # WEB PROYECT 
 
 Proyecto web por el cual trataremos una API de peliculas del estudio Ghibli y 
-compararemos las calificaciones de sus pelis mediante scraping de la web imdb.com
+compararemos las calificaciones de sus pelis mediante scraping de la web [IMDB](imdb.com)
 para comparar los resultados que se han puesto a sus propias pelis.
 
 ## RECURSOS
