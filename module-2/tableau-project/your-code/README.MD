@@ -1,6 +1,6 @@
 # SMFYD
 
-El proyecto está publicado en el siguiente Public:
-(formará parte del proyecto final)
+El proyecto formará parte del proyecto final y consta de un mapa con los filtros de las **FECHAS** de los **TIPOS DE ATAQUE** Y  **PAIS**. Estos dos últimos se verán afectados con el filtro de fecha. 
+A parte los indicadores del mapa tendrán la información de la **CIUDAD**, **PAIS**, **TIPO DE ATAQUE** Y **GRUPO TERRORISTA**.<br />
 
 [Link SMFYD Public Tableau](https://public.tableau.com/profile/rafaelperez#!/vizhome/Book1_15702936581860/Dashboard1)
